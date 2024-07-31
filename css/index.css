@@ -3263,7 +3263,7 @@ h1.page-title + .tag-cloud-list {
   content: '';
 }
 #page-header.full_page {
-  height: 600px;
+  height: 400x;
   background-attachment: fixed;
 }
 #page-header.full_page #site-info {
